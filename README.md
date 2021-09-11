@@ -16,7 +16,8 @@ Using the Kickstarter data set, I created a pivot table to compare the outcomes 
 
 I then created the following pivot chart using the above pivot table. The chart type chosen was a line chart that plotted how many successful, failed, and canceled theater campaigns were launched by month. 
 
-INSERT CHART
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/89217291/132950864-5732ec99-9c42-4336-b4c5-4dd4cba79d84.png)
+
 
 ### Analysis of Outcomes Based on Goals 
 
@@ -47,7 +48,7 @@ The final three columns, titled "Percentage Successful," "Percentage Failed," an
 
 After each cell of the table was filled in, I created the following corresponding line chart to plot the percentage of outcomes based on fundraising goal ranges. 
 
-INSERT CHART 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/89217291/132950920-83593db5-54f0-40ca-9000-ac6aa8355fa2.png)
 
 ### Challenges and Difficulties Encountered 
 
@@ -63,7 +64,7 @@ However, May also had one of the highest numbers of failed campaigns, with 52 fa
 
 ### Conclusions about Outcomes Based on Goals 
 
-Overall, the percentage of successful play campaigns tended to decrease and the percentage of failed play campaigns increase as the fundraising goals increased. The highest percentage of successful play campaigns occurred in goals less than $1,000, which was closely followed by the $1,000-$4,999 range. \
+Overall, the percentage of successful play campaigns tended to decrease and the percentage of failed play campaigns increase as the fundraising goals increased. The highest percentage of successful play campaigns occurred in goals less than $1,000, which was closely followed by the $1,000-$4,999 range. 
 
 ### Limitations of the Data Set 
 
